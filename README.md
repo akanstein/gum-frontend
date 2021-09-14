@@ -12,3 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## included in the folder is the Jquery mvp which is inthe /MVP directory
+
+MVP link [https://gum-mvp.surge.sh/]
+V2 (react) link [https://gum-rating.surge.sh/]
